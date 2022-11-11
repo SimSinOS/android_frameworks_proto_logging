@@ -3462,6 +3462,10 @@ enum PageId {
     // OPEN: SUW choose a screen saver
     // OS: T
     SUW_DREAM = 1935;
+
+    // OPEN: Settings > Display > Status bar lyric
+    // CATEGORY: SETTINGS
+    STATUS_BAR_LYRIC = 3000;
 }
 
 // Battery Saver schedule types.
